@@ -1,1 +1,1 @@
-# s-social: facebook clone using MERN stack
+# S-Social: facebook clone using MERN stack
