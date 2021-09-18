@@ -1,7 +1,5 @@
 # S-Social: facebook clone (MERN stack)
 
-***An simple clients website, you can view clients, filter, add or remove as will.***
-
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
 ##### 2. Open your code editor and add the project folder #####
