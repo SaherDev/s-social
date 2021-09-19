@@ -1,5 +1,5 @@
 # S-Social: facebook clone (MERN stack)
-<img src="images/Screen Shot 2021-09-20 at 2.15.14.png" >
+
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
 ##### 2. Open your code editor and add the project folder #####
@@ -8,5 +8,7 @@
 ##### 5. Add a new terminal and navigate one to the server and one to the client using ***`cd command`*** #####
 ##### 6. In the backend terminal type ***`npm start`*** to start the server #####
 ##### 7. In the frontend terminal type ***`npm start`*** to start the app #####
+
+<img src="images/Screen Shot 2021-09-20 at 2.15.14.png" >
 
 
