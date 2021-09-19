@@ -1,5 +1,5 @@
 # S-Social: facebook clone (MERN stack)
-
+<img src="images/Screen Shot 2021-09-20 at 2.15.14.png" >
 ## Instructions
 ##### 1. Clone ***( using `git clone` )*** or Download the folder ***( using ***`Download ZIP`*** option )*** #####
 ##### 2. Open your code editor and add the project folder #####
